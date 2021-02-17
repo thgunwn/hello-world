@@ -5,5 +5,8 @@ create something about html and css
 - i want to be expert programmer
 - i want to learn phyton languange
 
+=======
+learning by doing
+=======
 lets start to the top
 
